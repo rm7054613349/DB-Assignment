@@ -1,4 +1,4 @@
-Question--
+Question 1--
 Relationship between "Product" and "Product_Category"
 
 Ans--
@@ -8,7 +8,7 @@ The relationship between the "Product" and "Product_Category" entities is establ
 
 
 
-Question--
+Question 2--
 How could you ensure that each product in the "Product" table has a valid category assigned to it?
 
 Ans--
